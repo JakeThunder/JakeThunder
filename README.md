@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakeThunder
-- 👀 I’m interested in Finance & Data science
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in a range of topics mainly surrounding: Data and Sustainability
+- 🌱 This space is currently used to learn Python and SQL
 
 <!---
 JakeThunder/JakeThunder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
