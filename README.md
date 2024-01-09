@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JakeThunder
-- 👀 I’m interested in a range of topics mainly surrounding: Data and Sustainability
+- 👀 I’m interested in a range of topics mainly surrounding: Data, Statistics and Economics
 - 🌱 This space is currently used to learn Python and SQL
 
 <!---
